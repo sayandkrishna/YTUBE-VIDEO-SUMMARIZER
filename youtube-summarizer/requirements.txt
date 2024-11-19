@@ -1,0 +1,28 @@
+# Core dependencies
+streamlit==1.31.1
+pytube==15.0.0
+youtube_transcript_api==0.6.1
+transformers==4.36.2
+torch==2.1.2
+fpdf==1.7.2
+yt-dlp==2024.3.10
+
+# NLP and ML dependencies
+sentencepiece==0.1.99
+protobuf==4.25.2
+nltk==3.8.1
+
+# Utility dependencies
+python-dateutil==2.8.2
+requests==2.31.0
+tqdm==4.66.1
+
+# PDF handling
+Pillow==10.2.0
+
+# Optional - for better performance
+accelerate==0.26.1
+plotly
+wordcloud
+matplotlib
+numpy
